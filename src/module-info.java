@@ -1,8 +1,3 @@
-/**
- * 
- */
-/**
- * 
- */
-module javaApp {
+
+module javaApp{
 }
