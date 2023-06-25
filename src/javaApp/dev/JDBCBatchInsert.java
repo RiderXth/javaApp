@@ -1,4 +1,4 @@
-package javaApp.dev1;
+package javaApp.dev;
 import java.sql.*;
 import java.util.Scanner;
 public class JDBCBatchInsert {

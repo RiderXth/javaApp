@@ -2,8 +2,9 @@ package javaApp.dev1;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
+import javaApp.dev.Item;
 
-import com.mvi.pack1.*;
+
 public class TestItems extends Item{
 
 	public TestItems(int itemId, String itemName, float quantity, float rate) {
